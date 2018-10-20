@@ -1,1 +1,1 @@
-# deneme
+# mucitpark phyton egıtımı
